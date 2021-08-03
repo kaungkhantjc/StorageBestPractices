@@ -15,8 +15,14 @@ project မှာ demo တစ်ခု ထပ်ထည့်တိုင်း �
 - Index/Delete/Insert Images in specific directory (DCIM, Pictures etc..)
 
 <br>
-<br>
-<br>
+
+### Screenshots
+
+| ![Screenshot 1](https://raw.githubusercontent.com/kaungkhantjc/StorageBestPractices/master/screenshots/screenshot_1.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/kaungkhantjc/StorageBestPractices/master/screenshots/screenshot_2.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/kaungkhantjc/StorageBestPractices/master/screenshots/screenshot_3.jpg) |
+|---|---|---|
+
+#
+
 demo ကို နောက်ပိုင်း အသုံးများလာတဲ့ kotlin နဲ့ပဲ ရေးဖြစ်ခဲ့ပါတယ်၊ java နဲ့ ရေးဖို့ req ရှိရင်လည်း အချိန်ရရင် ရေးဖြစ်မှာပါ။
 
 
